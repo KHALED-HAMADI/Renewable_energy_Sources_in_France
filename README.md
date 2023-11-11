@@ -1,1 +1,2 @@
-# Renewable_energy_Sources_in_France
+The aim of this project was to define which is most effective renewable enery source in France regarding energy output in MW.
+This project streamlined and analyzed data from renewable power plants in France, providing  insights for strategic decision-making in the renewable energy sector. By assessing total electrical capacity, granular energy source contributions, and average capacities, the analysis equips business leaders with valuable information to optimize resource allocation and drive sustainable growth in the industry. The project demonstrates of SQL techniques for efficient decision support and business intelligence.
