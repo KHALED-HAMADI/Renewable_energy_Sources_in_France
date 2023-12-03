@@ -1,2 +1,7 @@
-The aim of this project was to define which is most effective renewable enery source in France regarding energy output in MW.
-This project streamlined and analyzed data from renewable power plants in France, providing  insights for strategic decision-making in the renewable energy sector. By assessing total electrical capacity, granular energy source contributions, and average capacities, the analysis equips business leaders with valuable information to optimize resource allocation and drive sustainable growth in the industry. The project demonstrates of SQL techniques for efficient decision support and business intelligence.
+  The data used in this project was downloaded in CSV format and imported into a MySQL local server database. The database can be found in this repository or from the following webpage: 
+  https://www.kaggle.com/datasets/eugeniyosetrov/renewable-power-plants
+
+  This project aims to perform exploratory data analysis to define which type of level 2 energy source powerplant contributes the most to the total electrical output. The analysis led to the creation of 3 views. Two views showcase the average electrical output, the total electrical output of each level 2 and level 3 energy source. The results show that wind energy sources are the most effective regarding average and total electrical output. A third view was created that showcases the contribution of each level 2 energy source contribution to the total electrical output. The results show that wind power plants contribute to 65.6% of the total electrical output, followed by hydro with 18.5 %, solar with 11 %, then bioenergy with 4.9 %.
+
+    The queries used can be examined through the attached SQL text file.
+
