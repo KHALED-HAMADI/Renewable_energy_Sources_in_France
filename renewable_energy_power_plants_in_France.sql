@@ -118,7 +118,7 @@ GROUP BY
 	energy_source_level_3
 ORDER BY number_of_sources DESC;
 
--- the contribution of each level 2 energy source type to the total output --
+-- 3. the contribution of each level 2 energy source type to the total output --
 
 CREATE VIEW lvl2_contribution_to_total_output AS
 WITH energy_source_lv2_count_avg_sum AS (
