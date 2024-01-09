@@ -1,6 +1,13 @@
-  The data used in this project was downloaded in CSV format and imported into a MySQL local server database. The database can be found in this repository.
-  
-  This project aims to perform exploratory data analysis to define which type of level 2 energy source powerplant contributes the most to the total electrical output. The analysis led to the creation of 3 views. Two views showcase the average electrical output, the total electrical output of each level 2 and level 3 energy source. The results show that wind energy sources are the most effective regarding average and total electrical output. A third view was created that showcases the contribution of each level 2 energy source contribution to the total electrical output. The results show that wind power plants contribute to 65.6% of the total electrical output, followed by hydro with 18.5 %, solar with 11 %, then bioenergy with 4.9 %.
+**Data Source and Database**
+The project utilizes data downloaded in CSV format, which was then imported into a MySQL local server database.
+The database used in this project can be located within this repository.
 
-The queries used can be examined through the attached SQL text file.
+**Objective**
+The primary objective of this project is to conduct exploratory data analysis focused on determining the primary contributor among level 2 energy source power plants to the total electrical output.
 
+**Analysis Overview**
+The analysis has resulted in the creation of three distinct views to facilitate understanding:
+- Two views showcase the average electrical output and the total electrical output attributed to each level 2 and level 3 energy source.
+- The findings from the analysis indicate that wind energy sources display the highest efficacy concerning both average and total electrical output.
+- A third view has been generated to demonstrate the contribution of each level 2 energy source to the overall electrical output.
+According to the results, wind power plants contribute approximately 65.6% to the total electrical output, followed by hydro with 18.5%, solar with 11%, and bioenergy with 4.9%.
