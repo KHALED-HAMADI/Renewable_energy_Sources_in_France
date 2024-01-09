@@ -12,6 +12,6 @@ The primary objective of this project is to conduct exploratory data analysis fo
 The analysis has resulted in the creation of three distinct views to facilitate understanding:
 - Two views showcase the average electrical output and the total electrical output attributed to each level 2 and level 3 energy source.
 - The findings from the analysis indicate that wind energy sources display the highest efficacy concerning both average and total electrical output.
-- A third view has been generated to demonstrate the contribution of each level 2 energy source to the overall electrical output.
+- A third view has been generated to demonstrate the percentage of the contribution of each level 2 energy source to the overall electrical output.
 
 According to the results, wind power plants contribute approximately 65.6% to the total electrical output, followed by hydro with 18.5%, solar with 11%, and bioenergy with 4.9%.
