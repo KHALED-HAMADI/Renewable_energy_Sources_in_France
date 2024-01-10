@@ -1,11 +1,11 @@
 **Data Source and Database**
 
-The project utilizes data downloaded in CSV format, which was then imported into a MySQL local server database.
+- The project utilizes data downloaded in CSV format, which was then imported into a MySQL local server database.
 The database used in this project can be located within this repository.
 
 **Objective**
 
-The primary objective of this project is to conduct exploratory data analysis focused on determining the primary contributor among level 2 energy source power plants to the total electrical output.
+- The primary objective of this project is to conduct exploratory data analysis focused on determining the primary contributor among level 2 energy source power plants to the total electrical output.
 
 **Analysis Overview**
 
@@ -15,3 +15,5 @@ The analysis has resulted in the creation of three distinct views to facilitate 
 - A third view has been generated to demonstrate the percentage of the contribution of each level 2 energy source to the overall electrical output.
 
 According to the results, wind power plants contribute approximately 65.6% to the total electrical output, followed by hydro with 18.5%, solar with 11%, and bioenergy with 4.9%.
+
+[SQL text file](https://github.com/KHALED-HAMADI/Renewable_energy_Sources_in_France/blob/main/renewable_energy_power_plants_in_France.sql) in repository shows the process
