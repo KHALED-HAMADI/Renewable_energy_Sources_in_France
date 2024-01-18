@@ -1,4 +1,4 @@
--- Retrive data
+-- Retrieve data
 SELECT * FROM renewable_power_plants_fr;
 
 -- total electrical capacity--
