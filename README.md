@@ -1,19 +1,13 @@
-**Data Source and Database**
+**Focus:** Conducted an exploratory data analysis to identify the primary contributors among Level 2 energy source power plants to overall electrical output.<br />
 
-- The project utilizes data downloaded in CSV format, which was then imported into a MySQL local server database.
-The database used in this project can be located within this repository.
+**Key Insights:**<br />
+Wind power plants are the most effective, contributing 65.6% of the total electrical output, followed by:<br />
+Hydro: 18.5%<br />
+Solar: 11%<br />
+Bioenergy: 4.9%<br />
+Analysis included average and total electrical output comparisons for Level 2 and Level 3 energy sources.<br />
 
-**Objective**
-
-- The primary objective of this project is to conduct exploratory data analysis focused on determining the primary contributor among level 2 energy source power plants to the total electrical output.
-
-**Analysis Overview**
-
-The analysis has resulted in the creation of three distinct views to facilitate understanding:
-- Two views showcase the average electrical output and the total electrical output attributed to each level 2 and level 3 energy source.
-- The findings from the analysis indicate that wind energy sources display the highest efficacy concerning both average and total electrical output.
-- A third view has been generated to demonstrate the percentage of the contribution of each level 2 energy source to the overall electrical output.
-
-According to the results, wind power plants contribute approximately 65.6% to the total electrical output, followed by hydro with 18.5%, solar with 11%, and bioenergy with 4.9%.
-
-[SQL text file](https://github.com/KHALED-HAMADI/Renewable_energy_Sources_in_France/blob/main/renewable_energy_power_plants_in_France.sql) in repository shows the process
+**Tools and Visualization:**<br />
+Created three SQL-based views to present:<br />
+Average and total outputs for Level 2 and Level 3 energy sources.<br />
+Contributions of each Level 2 energy source to total electrical output.<br />
